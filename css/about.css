@@ -1,0 +1,20 @@
+section.about{
+  background: var(--color-fondo-azul-suave);
+  margin: var(--space-section) 0;
+  padding: 64px;
+  width: 100vw;
+}
+
+.about__container{
+  max-width: var(--max-width-container);
+  margin: auto;
+}
+
+.about__title{
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.about__paragraph{
+  margin-top: var(--space-section);
+}
