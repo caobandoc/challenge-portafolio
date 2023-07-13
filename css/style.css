@@ -10,6 +10,7 @@ coloque nas sessões indicadas*/
   --cor-de-fundo: #f5f5f5;
   --cor-de-link: #000;
   --max-width-container: 1136px;
+  --space-section: 16px;
 }
 
 body {
@@ -50,78 +51,4 @@ https://en.bem.info/methodology/quick-start/*/
   align-items: center;
   justify-content: center;
   width: 100vw;
-}
-
-/*Sección Title*/
-
-section.title {
-}
-
-/*Sección About*/
-
-section.about {
-}
-
-/*Sección Hobbies*/
-
-section.hobbies {
-}
-
-/* Experiencia Académica*/
-
-section.academic {
-}
-
-/* experiencia*/
-
-section.experience {
-}
-
-/*Contacto*/
-
-section.formcontato {
-}
-
-/*footeer*/
-
-section.footer {
-}
-
-/* Vamos a desafiarnos trabajando con responsividad?
-Utiliza las referencias de los breakpoints @media abajo */
-
-/*Tablet*/
-@media screen and (max-width: 769px) {
-  /* Menú */
-
-  /*title*/
-
-  /*Skills*/
-
-  /*Hobbies*/
-
-  /*Formación Académica*/
-
-  /*Experiencia Profesional*/
-}
-
-/*Mobile*/
-@media (min-width: 425px) {
-  /*Menu*/
-
-  /*Titulo*/
-
-  /*Sección sobre mi*/
-
-  /*Skills*/
-
-  /*Hobbies*/
-
-  /*Formación Académica*/
-
-  /*Experiencia Profesional*/
-
-  /*Contacto*/
-
-  /*Footer*/
 }

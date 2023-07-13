@@ -7,6 +7,7 @@ section.menu {
   font-weight: 500;
   max-width: var(--max-width-container);
   width: 100%;
+  margin-bottom: var(--space-section);
 }
 
 .menu__header {
