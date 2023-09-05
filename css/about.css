@@ -2,7 +2,8 @@ section.about{
   background: var(--color-fondo-azul-suave);
   margin: var(--space-section) 0;
   padding: 64px;
-  width: 100vw;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .about__container{

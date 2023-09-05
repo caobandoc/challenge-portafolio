@@ -1,6 +1,6 @@
 section.hobbies{
   margin: var(--space-section) 0;
-  width: 100vw;
+  width: 100%;
 }
 
 .hobbies__title{
