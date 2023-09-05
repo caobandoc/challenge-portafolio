@@ -1,0 +1,7 @@
+section.footer{
+  padding: var(--space-section-full);
+}
+
+.footer__rodape{
+  text-align: center;
+}
